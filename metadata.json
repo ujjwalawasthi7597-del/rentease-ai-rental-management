@@ -1,0 +1,6 @@
+{
+  "name": "RentEase – AI Rental Property Management",
+  "description": "A modern, full-stack rental property management platform for landlords and tenants with property tracking, rent collection, maintenance workflows, lease management, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
